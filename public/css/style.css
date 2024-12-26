@@ -208,7 +208,7 @@ html{
 .sun{
     height: 100vh;
     width: 100%;
-    background-image: url('/images/sun/Sun_background.png');
+    background-image: url(../images/sun/sun_background.png);
     background-size:cover;
     
 }
@@ -506,7 +506,7 @@ html{
 .mars{
     height:100vh;
     width: 100%;
-    background-image: url('/images/mars/Mars_background.png');
+    background-image: url('/images/mars/mars_background.png');
     background-size:cover;
     background-position: 0rem;
 }
@@ -593,7 +593,7 @@ html{
 .jupiter{
     height: 100vh;
     width: 100%;
-    background-image: url('/images/jupiter/Jupiter_background.png');
+    background-image: url('/images/jupiter/jupiter_background.png');
     background-size:cover;
     background-position: 0rem;
 }
